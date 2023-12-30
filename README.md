@@ -14,7 +14,7 @@ This project combines real-time object tracking using YOLOv8 with the training o
 
 ## Getting Started
 
-1. **Clone the Repository:**
+**Clone the Repository:**
    ```bash
    git clone [https://github.com/your-username/object-tracking.git](https://github.com/Soumyajit-7/Object-Tracking-and-Validation-with-YOLOv8-and-CNN.git)https://github.com/Soumyajit-7/Object-Tracking-and-Validation-with-YOLOv8-and-CNN.git
    cd object-tracking
